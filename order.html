@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ثبت سفارش</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <div class="container">
+    <aside class="sidebar">
+      <img src="images/logo.png" alt="لوگوی فندوقی" class="logo" />
+      <nav class="menu">
+        <a href="index.html">🏡 خانه‌ی فندوقی</a>
+        <a href="about.html">🧵 قصه‌ی نخ و مهر</a>
+        <a href="products.html">👗 گنجه‌ی بافتنی‌ها</a>
+        <a href="order.html" class="active">📦 ثبت سفارش</a>
+        <a href="comments.html">💌 پچ‌پچ‌های گرم</a>
+      </nav>
+    </aside>
+
+    <main class="content">
+      <header class="banner">
+        <h1>ثبت سفارش</h1>
+        <p>فرم زیر را برای ثبت سفارش محصول تکمیل کنید:</p>
+      </header>
+
+      <section class="order-section">
+        <div class="order-summary">
+          <h2>محصول انتخابی:</h2>
+          <p><strong>نام:</strong> <span id="product-name">در حال بارگذاری...</span></p>
+          <p><strong>قیمت:</strong> <span id="product-price">در حال بارگذاری...</span></p>
+        </div>
+
+        <form class="order-form">
+          <label>نام و نام خانوادگی:
+            <input type="text" required />
+          </label>
+
+          <label>شماره تماس:
+            <input type="tel" required />
+          </label>
+
+          <label>آدرس:
+            <textarea required></textarea>
+          </label>
+
+          <button type="submit">ثبت نهایی سفارش</button>
+        </form>
+      </section>
+    </main>
+  </div>
+
+  <footer class="footer">
+    <p>تمامی حقوق متعلق به فندوقی می‌باشد © 2025</p>
+  </footer>
+
+  <script src="js/order.js"></script>
+</body>
+</html>
