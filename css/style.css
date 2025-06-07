@@ -5,6 +5,7 @@
   font-style: normal;
 }
 
+
 body {
   margin: 0;
   font-family: 'Vazirmatn', sans-serif;
@@ -20,15 +21,17 @@ body {
 
 /* Sidebar Menu */
 .sidebar {
-  width: 220px;
+  width: 200px;
   background-color: #AF8F6F;
   padding: 0px;
   box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+  height: 100%;
 }
 
 .logo {
-  width: 80%;
+  width: 90%;
   margin-bottom: 20px;
+  padding-left: 10px;
 }
 
 .menu a {
@@ -36,7 +39,7 @@ body {
   color: #543310;
   text-decoration: none;
   padding: 12px;
-  border-radius: 8px;
+  border-radius: 20px;
   margin-bottom: 10px;
   transition: background 0.3s;
 }
@@ -287,7 +290,7 @@ body {
 .order-form input,
 .order-form textarea {
   width: 100%;
-  padding: 10px;
+  padding: 5px;
   margin-top: 5px;
   border: 1px solid #ccc;
   border-radius: 6px;
@@ -366,6 +369,10 @@ body {
 }
 /* تنظیمات برای موبایل */
 @media screen and (max-width: 768px) {
+    .about-hero{
+      margin-top: 50px;
+    }
+    
     .sidebar {
     width: 100%;
     height: auto;
