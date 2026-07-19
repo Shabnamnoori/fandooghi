@@ -25,8 +25,12 @@
  **[مشاهده سایت Fandooghi](https://shabnamnoori.github.io/fandooghi/)**
  
  ## 🖼️ پیش‌نمایش سایت
+ <div align="center">
+  <a href="https://shabnamnoori.github.io/fandooghi/">
+    <img src="images/Screenshot.jpg" alt="پیش‌نمایش سایت فندوقی" width="800" />
+  </a>
+</div>
 
-[![پیش‌نمایش سایت](images/Screenshot.jpg)](https://shabnamnoori.github.io/fandooghi/)
 
 ## 👩‍💻 توسعه‌دهنده:  
 [Shabnam Noori](https://github.com/Shabnamnoori)
