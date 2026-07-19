@@ -17,8 +17,9 @@
 - محصولات (products.html)
 - ثبت سفارش (order.html)
 - پچ‌پچ‌های گرم (comments.html)
-- مشاهده آنلاین سایت پروژه با زدن لینک زیر:
-  https://shabnamnoori.github.io/fandooghi/
+## 🌐 مشاهده آنلاین
+برای دیدن نسخه‌ی زنده و آنلاین سایت، روی لینک زیر کلیک کنید:
 
+👉 **[مشاهده سایت Fandooghi](https://shabnamnoori.github.io/fandooghi/)**
 ## 👩‍💻 توسعه‌دهنده:  
 [Shabnam Noori](https://github.com/Shabnamnoori)
