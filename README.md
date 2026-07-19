@@ -17,6 +17,7 @@
 - محصولات (products.html)
 - ثبت سفارش (order.html)
 - پچ‌پچ‌های گرم (comments.html)
+- مشاهده آنلاین سایت :https://github.com/Shabnamnoori/fandooghi
 
 ## 👩‍💻 توسعه‌دهنده:  
 [Shabnam Noori](https://github.com/Shabnamnoori)
