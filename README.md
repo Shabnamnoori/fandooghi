@@ -26,7 +26,7 @@
  
  ## 🖼️ پیش‌نمایش سایت
 
-images/Screenshot.jpg
+[![پیش‌نمایش سایت](images/Screenshot.jpg)](https://shabnamnoori.github.io/fandooghi/)
 
 ## 👩‍💻 توسعه‌دهنده:  
 [Shabnam Noori](https://github.com/Shabnamnoori)
