@@ -26,7 +26,7 @@
  
  ## 🖼️ پیش‌نمایش سایت
 
-[![مشاهده سایت فندوقی](image/screenshot.png)](https://shabnamnoori.github.io/fandooghi/)
+[![مشاهده سایت فندوقی](images/screenshot.jpg)](https://shabnamnoori.github.io/fandooghi/)
 
 ## 👩‍💻 توسعه‌دهنده:  
 [Shabnam Noori](https://github.com/Shabnamnoori)
